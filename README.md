@@ -54,7 +54,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
- ![output](./img/op1.jpg)
+ ![output](./img/output1.jpg)
  ![output](./img/output2.jpg)
  ![output](./img/output3.jpg)
 
